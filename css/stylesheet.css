@@ -23,10 +23,20 @@ body {
       background-repeat: no-repeat;
       background-position: top left;
       background-size: cover;
-      color: #fff;
+      color: red;
       padding: 100px 25px;
       font-family: Montserrat, sans-serif;
   }
+   .jumbotron p {
+    color:white;
+   }
+
+    h2.introaboutrobHeader {
+    color:green;
+   }
+
+  
+
   .container-fluid {
       padding: 60px 50px;
   }
